@@ -1,0 +1,25 @@
+_repo: The-Anti-Slavery-Examiner-Part-4-of-4_11274
+_version: 0.0.1
+creator:
+  author:
+    agent_name: American Anti-Slavery Society
+    gutenberg_agent_id: '3914'
+    url: http://www.gutenberg.org/2009/agents/3914
+    wikipedia: http://en.wikipedia.org/wiki/American_Anti-Slavery_Society
+description: ''
+gutenberg_bookshelf: Slavery
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11274'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Antislavery movements -- United States -- Periodicals'
+- !lcc 'E300'
+- !lcsh 'Slavery'
+- GITenberg
+title: The Anti-Slavery Examiner, Part 4 of 4
+url: http://www.gutenberg.org/ebooks/11274
